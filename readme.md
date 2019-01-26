@@ -13,3 +13,5 @@ This sample is used in the [getting-started series of tutorials for API apps](ht
 To deploy the application to your Azure subscription without following the tutorial, use the **Deploy to Azure** button.
 
 [![Deploy to Azure](http://azuredeploy.net/deploybutton.png)](https://azuredeploy.net/)
+
+Please Note: When deploying to Azure App Services, you may need to change the minimum TLS Version to 1.0 on each App service.
