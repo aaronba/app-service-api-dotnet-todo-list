@@ -14,7 +14,7 @@ To deploy the application to your Azure subscription without following the tutor
 
 [![Deploy to Azure](http://azuredeploy.net/deploybutton.png)](https://azuredeploy.net/)
 
-<a href="https://transmogrify.azurewebsites.net/app-service-api-dotnet-todo-list/master/azuredeploy.json?environment=gov" target="_blank">
+<a href="https://transmogrify.azurewebsites.net/app-service-api-dotnet-todo-list/blob/master/azuredeploy.json?environment=gov" target="_blank">
 <img src="https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/1-CONTRIBUTION-GUIDE/images/deploytoazuregov.png"
 </a>
 
